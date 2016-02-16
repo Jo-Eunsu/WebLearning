@@ -6,8 +6,8 @@
 <body>
   <h1>javascript</h1>
   <script charset="utf-8">
-    name = "JoEunsoo";
-    document.writeln("안녕하세요."+name);
+    name = "Jo Eunsoo";
+    document.writeln("안녕하세요. "+name);
   </script>
   <h1>php</h1>
   <?php
